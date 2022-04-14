@@ -19,6 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 '打开百度222'
 WebUI.openBrowser('https://www.baidu.com/')
-'222'
+'22233'
 WebUI.closeBrowser()
 
