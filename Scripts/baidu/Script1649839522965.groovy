@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-'打开百度'
+'打开百度222'
 
 WebUI.openBrowser('https://www.baidu.com/')
 
